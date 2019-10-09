@@ -5,3 +5,6 @@
 
 
 http://www.robots.ox.ac.uk/~vgg/data/text/
+
+Mask TextSpotter
+https://oysz2016.github.io/post/f222e8ff.html
