@@ -11,3 +11,6 @@ https://oysz2016.github.io/post/f222e8ff.html
 
 INT8量化
 https://jackwish.net/neural-network-quantization-introduction-chn.html?tdsourcetag=s_pcqq_aiomsg#
+
+ACE Loss 取代 CTC
+https://arxiv.org/abs/1904.08364
